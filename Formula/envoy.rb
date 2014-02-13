@@ -3,8 +3,8 @@ require 'formula'
 class Envoy < Formula
   homepage 'http://laravel.com/docs/ssh#envoy-task-macros'
   url 'https://github.com/laravel/envoy/raw/master/envoy.phar'
-  sha1 '0e9a3097fdbffb5037d7746e5071d2f772948b3e'
-  version '1.0.5'
+  sha1 '37952eeb4f625486cdbb8d513d13a7aef13191b6'
+  version '1.0.7'
 
   def install
     libexec.install "envoy.phar"
