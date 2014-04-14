@@ -3,7 +3,7 @@ require 'formula'
 class Envoy < Formula
   homepage 'http://laravel.com/docs/ssh#envoy-task-macros'
   url 'https://github.com/laravel/envoy/raw/master/envoy.phar'
-  sha1 '00401ec8014a1744bebae14f8411fde6f2db551b'
+  sha1 'db14aea752eba7157ac407d8f6b47e06ae93bb26'
   version '1.0.11'
 
   def install
